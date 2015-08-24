@@ -1,6 +1,6 @@
 <?
 
-function test534534(){
+function test(){
 
 
 }
